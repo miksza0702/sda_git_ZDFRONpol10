@@ -1,0 +1,10 @@
+1. git checkout -b "new-branch-name"
+2. changes in files (add/edit/remove)
+3. git add .
+4. git commit -m "message"
+5. git push (set upstream)
+6. Repeat steps 2-5 (push without upstream)
+7. New pull request on github, gitlab ect.
+8. merge 
+9. Switch to master branch ( git checkout master )
+10. git pull
